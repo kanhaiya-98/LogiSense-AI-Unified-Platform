@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv
+*.sqlite3
+logisense_blockchain.db
+
+# OS
+.DS_Store
+Thumbs.db
