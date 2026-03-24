@@ -1,0 +1,26 @@
+{
+  "top_features": [
+    "days_overdue",
+    "vaccines_missed",
+    "district_outbreak",
+    "reminders_ignored",
+    "high_risk_state",
+    "child_age_months",
+    "sibling_history",
+    "gender_male"
+  ],
+  "children_analyzed": 60,
+  "risk_distribution": {
+    "LOW": 18,
+    "MEDIUM": 0,
+    "HIGH": 0,
+    "CRITICAL": 42
+  },
+  "state_keys_written": [
+    "shap_heatmap_json",
+    "shap_matrix_json",
+    "shap_waterfall_json",
+    "top_features",
+    "shap_values_raw"
+  ]
+}
