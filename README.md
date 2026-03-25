@@ -16,7 +16,11 @@
 
 LogiSense AI Unified Platform is a next-generation logistics command center. It leverages bleeding-edge machine learning and agentic AI to autonomously monitor, predict, and resolve supply chain disruptions in real-time. By integrating a monolithic FastAPI backend with a sleek, minimalist Next.js/React frontend, LogiSense offers unparalleled visibility and automated recovery strategies across the entire logistics lifecycle.
 
-![Logistics Hero](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1000&auto=format&fit=crop) *(Illustrative image — Replace with your actual dashboard screenshot)*
+<div align="center">
+  <img src="docs/ui1.png" width="800" alt="Operations Dashboard" style="margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
+  <img src="docs/ui2.png" width="800" alt="Risk Intelligence Dashboard" style="margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
+  <img src="docs/ui3.png" width="800" alt="Decision Engine Dashboard" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
+</div>
 
 ---
 
